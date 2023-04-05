@@ -1,5 +1,5 @@
  
-# Drum Kit
+# Drum Kit🥁🥳
  
 # HTML/CSS/JS & DOM - Drum Kit
 
@@ -80,7 +80,7 @@ Navigate to [localhost:5000](http://localhost:5000) and have fun!
 
 ## :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Dicee](https://github.com/shashikantkaushik/drum_kit_web_dev/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Drum Kit](https://github.com/shashikantkaushik/drum_kit_web_dev/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) to find out about the coding standards.
 
 <br>
 
