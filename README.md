@@ -39,7 +39,7 @@ To run the site on your local machine
 <br>  
 
 ## 🚀 Preview
-![img](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![img](https://github.com/shashikantkaushik/drum_kit_web_dev/blob/main/image.png)
 
 <br>
 
