@@ -73,7 +73,7 @@ yarn start
 ### Jam out :smiley:
 
 Navigate to [localhost:5000](http://localhost:5000) and have fun!
-```
+
 
 <br>
 
