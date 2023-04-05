@@ -51,7 +51,7 @@ To run the site on your local machine
 
 ```bash
 # clone and change directory
-git clone https://github.com/sethbergman/JavaScript-Drum-Kit.git && cd JavaScript-Drum-Kit
+git clone https://github.com/shashikantkaushik/drum_kit_web_dev.git && cd drum_kit_web_dev
 ```
 
 ### Install dependencies
